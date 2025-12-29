@@ -1,6 +1,6 @@
 -- Manual One-Tap Cyber Freeze (REAL LAG SYSTEM)
 -- CYBER ICE THEME with Bloxstrap Integration & Dynamic Blur
--- ny rii (I didn't made it js make it back to work)
+-- by rii (I didn't made it js make it back to work)
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -22,7 +22,7 @@ local creditLabel = Instance.new("TextLabel")
 creditLabel.Size = UDim2.new(0, 300, 0, 50)
 creditLabel.Position = UDim2.new(0.5, -150, 0.5, -25)
 creditLabel.BackgroundTransparency = 1
-creditLabel.Text = "by riiiii"
+creditLabel.Text = "by riiiii (i didn't made it)"
 creditLabel.TextColor3 = Color3.new(1, 1, 1)
 creditLabel.TextScaled = true
 creditLabel.Font = Enum.Font.SciFi
