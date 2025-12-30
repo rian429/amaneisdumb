@@ -22,7 +22,7 @@ local creditLabel = Instance.new("TextLabel")
 creditLabel.Size = UDim2.new(0, 300, 0, 50)
 creditLabel.Position = UDim2.new(0.5, -150, 0.5, -25)
 creditLabel.BackgroundTransparency = 1
-creditLabel.Text = "by riiiii (i didn't made it)"
+creditLabel.Text = "lol"
 creditLabel.TextColor3 = Color3.new(1, 1, 1)
 creditLabel.TextScaled = true
 creditLabel.Font = Enum.Font.SciFi
@@ -938,7 +938,7 @@ print("📏 Size settings available (100-500px)")
 print("🎬 SLOW MOTION Animations: Boot-up, Pulse, Border Flow")
 print("🐌 Border Flow: Ultra slow energy flow (1.2s per side)")
 print("📐 UI Size: Main 200x80, Settings 220x220")
-print("⏱️ Credit: by zenxyyv (displayed for 20 seconds)")
+print("⏱️ Credit: lol")
 print("🔄 Drag Toggle: Enable/disable GUI dragging")
 print("🌀 DYNAMIC BLUR: Panel blurs when settings open")
 print("🚀 BLOXSTRAP: Integrated launcher in settings")
