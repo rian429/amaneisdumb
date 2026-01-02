@@ -511,7 +511,7 @@ local function PlayBootAnimation()
     end
     
     wait(0.3)
-    task.spawn(TypeText, ButtonText, "CYBER FREEZE", 0.1)
+    task.spawn(TypeText, ButtonText, "FREEZE", 0.1)
     wait(0.5)
     task.spawn(TypeText, StatusText, "SYSTEM READY", 0.05)
 end
